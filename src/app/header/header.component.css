@@ -1,0 +1,116 @@
+.hr{
+    background-color: white;
+}
+.hb1{
+    font-weight: bold;
+    height: 30px;
+}
+.hb1:hover{
+    color: white;
+    background-color: black;
+}
+.hi1{
+    height: 40px;
+    width: 100px;
+    
+}
+.hi2{
+    height: 15px;
+    width: 15px;
+}
+.bb1{
+    width: 15px;
+    height: 15px;
+}
+.hb2{
+    font-weight: bold;
+    height: 30px;
+}
+.hb2:hover{
+    color: white;
+    background-color: black;
+}
+.hr2{
+    background-color: rgb(245, 243, 239);
+}
+.hp{
+    color: rgb(170, 170, 207);
+}
+.hp:hover{
+    
+color: black;
+}
+.c2{
+    background-image: url("src/assets/photos/wall.webp");
+    height: 500px;
+}
+.square1 {
+    height: 25px;
+    width: 25px;
+    border:1px solid red;
+  }
+  .square2 {
+    height: 25px;
+    width: 25px;
+    border:1px solid black;
+  }
+  .square3 {
+    height: 25px;
+    width: 25px;
+    border:1px solid rgb(247, 207, 207);
+  }
+  .square4 {
+    height: 25px;
+    width: 25px;
+    border:1px solid orange;
+  }
+  .frame{
+    margin-top: 90px;
+
+  }
+.bo{
+    border:none
+}
+.bo:hover{
+    background-color: rgb(203, 205, 207);
+}
+.p1{
+    font-size: 10px;
+}
+.sp1{
+    color:green;
+    font-weight: bold;
+
+}
+.pp{
+    margin-left: 50%;
+}
+.ps{width:15px ;
+height: 15px;}
+.b1{
+    width: 150px;
+}
+input{
+    width: 120px;
+    margin-left: 550px;
+}
+.i1{
+    color: white;
+    background-color: black;
+}
+.fr{
+    color: white;
+}
+.pp1{
+    font-size: 18px;
+}
+.tu{
+    width: 650px;
+    height: 600px;
+}
+.star{
+    color: gold;
+}
+
+
+
