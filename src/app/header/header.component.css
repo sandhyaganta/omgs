@@ -90,7 +90,7 @@ height: 15px;}
 .b1{
     width: 150px;
 }
-input{
+.san{
     width: 120px;
     margin-left: 550px;
 }
@@ -110,6 +110,11 @@ input{
 }
 .star{
     color: gold;
+}
+.rb{
+    color: white;
+    background-color: black;
+    margin-left: 200px;
 }
 
 
